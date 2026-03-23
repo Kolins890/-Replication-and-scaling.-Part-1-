@@ -38,9 +38,22 @@ Master‑master репликация:
 
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7f6ec120-0fe5-4878-80a9-a3b5e2c8bfc5" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0c498396-2d99-47e8-a1ef-dc4e8de276db" />
+
 
 Задание 3*
 
 Выполните конфигурацию master-master репликации. Произведите проверку.
 
 Приложите скриншоты конфигурации, выполнения работы: состояния и режимы работы серверов.
+
+<img width="1366" height="569" alt="image" src="https://github.com/user-attachments/assets/da3cc149-90d8-4612-b252-1e6406362460" />
+
+<img width="1366" height="547" alt="image" src="https://github.com/user-attachments/assets/c726ee91-8d5f-41d8-8ec7-a21403911d76" />
+
+<img width="1366" height="549" alt="image" src="https://github.com/user-attachments/assets/8cccff0f-350c-44b5-8a93-fe6f2b80f0bf" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a5ea61e5-8bb6-4180-a09c-487b1392d0ad" />
+
